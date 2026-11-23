@@ -59,7 +59,7 @@ minha-pagina/
 1. Acesse a página pelo github pages:
 
 ```
-git clone https://github.com/SEU-USUARIO/minha-pagina.git
+https://emykoyla.github.io/minha-pagina/
 ```
 
 ## 📚 Aprendizados
